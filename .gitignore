@@ -3,3 +3,7 @@ dist
 .tmp
 *.tsbuildinfo
 .playwright-mcp/
+.vibe-check/
+playwright-report/
+screencheck-out/
+test-results/
